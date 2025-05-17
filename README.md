@@ -1,7 +1,7 @@
--Hi there!
--I'm Dharshini 👩‍💻
--🧠AI & ML student 
--🛜Tech, creativity, and real-world projects.
+-Hi there!/
+-I'm Dharshini 👩‍💻/
+-🧠AI & ML student /
+-🛜Tech, creativity, and real-world projects/
 -🌐I love building apps, exploring AI, and learning new things every day👾
 
 
