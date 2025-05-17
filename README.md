@@ -1,4 +1,3 @@
-![![Header](./!content://media/external/downloads/1000165975.png
 
 🧠Hi, I'm Dharshini 
 
