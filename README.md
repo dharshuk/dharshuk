@@ -1,4 +1,11 @@
-🧠Hi, I'm Dharshini - An AI & ML student👾 who enjoys turning ideas into impactful tech. I'm curious, creative, and always excited to build, explore, and grow👩‍💻
+🧠Hi, I'm Dharshini 
+
+
+- An AI & ML student👾 
+
+who enjoys turning ideas into impactful tech. 
+
+I'm curious, creative, and always excited to build, explore, and grow👩‍💻
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/cuzkB3ZU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/bb_bunny_girl_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/dharshini-kumaresan-20799b290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1r4KQhWPC) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BTSarmyD1?t=uv9NgHCrazr9agvJoHolxA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@jeonbunny1067?si=cOATj65FQnbIe_OM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshuk123@gmail.com) 
 # 💻 Tech Stack:
