@@ -21,4 +21,4 @@ _
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Goutham &gold)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyan)
